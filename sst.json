@@ -1,0 +1,5 @@
+{
+  "name": "todo",
+  "region": "ap-south-1",
+  "main": "stacks/index.js"
+}
